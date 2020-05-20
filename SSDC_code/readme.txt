@@ -10,7 +10,7 @@ the description of files in this repository:
 "model_test_3d.py"for replacing the 2D convolution operations in Block 2 with 3D ones
 "count_param_and_flops.py decoder.py" code for evaluating metrics 
 
-If you use this code, please cite our work: Yutong Bai, Qifan Zhang, Zexin Lu,  and Yi Zhang, Bai, Y., Q. Zhang, Z. Lu & Y. Zhang (2019) SSDC-DenseNet: A Cost-Effective End-to-End Spectral-Spatial Dual-Channel Dense Network for Hyperspectral Image Classification. Ieee Access, 7, 84876-84889.
+If you use this code, please cite our work: Yutong Bai, Qifan Zhang, Zexin Lu,  and Yi Zhang, (2019) SSDC-DenseNet: A Cost-Effective End-to-End Spectral-Spatial Dual-Channel Dense Network for Hyperspectral Image Classification. Ieee Access, 7, 84876-84889.
 
 
 Any questions about this code, please contact the author: ybai1920@163.com
